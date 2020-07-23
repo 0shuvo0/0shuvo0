@@ -84,7 +84,7 @@
       stroke="#E4E2E2"
     />
   
-      <text x="25" y="35" class="header">0shuvo0's GitHub Stats</text>
+      <text x="25" y="35" class="header">My GitHub Stats</text>
 
       <g data-testid="card-body-content" transform="translate(0, 0)">
         <g data-testid="rank-circle" transform="translate(400, 105.4054054054054)">
