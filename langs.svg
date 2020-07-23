@@ -1,0 +1,122 @@
+
+
+    <svg width="300" height="500" viewBox="0 0 300 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <style>
+        .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed }
+        .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #333 }
+      </style>
+      <rect data-testid="card-bg" x="0.5" y="0.5" width="99.7%" height="99%" rx="4.5" fill="#FFFEFE" stroke="#E4E2E2"/>
+
+      
+      <text data-testid="header" x="25" y="35" class="header">Top Languages</text>
+
+      <svg data-testid="lang-items" x="25" y="55">
+  <g transform="translate(0, 0)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
+    <text x="215" y="34" class="lang-name">100.0%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#D32F2F"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="100%"
+      >
+      </rect>
+    </svg>
+  </g>
+  <g transform="translate(0, 40)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
+    <text x="215" y="34" class="lang-name">95.70%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#FDD835"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="95.70%"
+      >
+      </rect>
+    </svg>
+  </g>
+  <g transform="translate(0, 80)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
+    <text x="215" y="34" class="lang-name">93.66%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#2196F3"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="93.66%"
+      >
+      </rect>
+    </svg>
+  </g>
+  <g transform="translate(0, 120)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Vue</text>
+    <text x="215" y="34" class="lang-name">90.00%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#4DBA87"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="90%"
+      >
+      </rect>
+    </svg>
+  </g>
+  <g transform="translate(0, 160)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">NodeJs</text>
+    <text x="215" y="34" class="lang-name">75.00%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#539E43"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="75%"
+      >
+      </rect>
+    </svg>
+  </g>
+  <g transform="translate(0, 200)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">MongoDB</text>
+    <text x="215" y="34" class="lang-name">60.00%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#83C362"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="60%"
+      >
+      </rect>
+    </svg>
+  </g>
+<!--
+<g transform="translate(0, 80)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
+    <text x="215" y="34" class="lang-name">11.60%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#e34c26"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="11.6%"
+      >
+      </rect>
+    </svg>
+  </g>-->
+      </svg>
+    </svg>
+  
