@@ -1,1 +1,1 @@
-![0shuvo0](stat.svg)
+![0shuvo0](https://raw.githubusercontent.com/0shuvo0/0shuvo0/master/stat.svg)
