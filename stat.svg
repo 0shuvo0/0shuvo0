@@ -65,7 +65,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 127.24671845400623;
+        stroke-dashoffset: 27.24671845400623;
       }
     }
   
@@ -92,13 +92,13 @@
         <circle class="rank-circle" cx="-10" cy="8" r="40" />
         <g class="rank-text">
           <text
-            x="0"
-            y="0"
+            x="-5"
+            y="2"
             alignment-baseline="central"
             dominant-baseline="central"
             text-anchor="middle"
           >
-            A+
+            A++
           </text>
         </g>
       </g>
