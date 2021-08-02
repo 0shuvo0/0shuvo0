@@ -1,4 +1,4 @@
-# [Visit Portfolio](https://0shuvo0.github.io/portfoliov2) or [View Resume](https://0shuvo0.github.io/portfoliov2/resume.pdf)
+# [Visit Portfolio](https://0shuvo0.github.io/portfoliov2) or [View Resume](https://0shuvo0.github.io/portfoliov2/resume-of-shuvo.pdf)
 
 ![0shuvo0](https://raw.githubusercontent.com/0shuvo0/0shuvo0/master/stat.svg)
 ![Top Skills](https://raw.githubusercontent.com/0shuvo0/0shuvo0/master/langs.svg)
