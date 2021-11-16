@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">A passionate self-taught developer</h3>
 
-- 👨‍💻 All of my projects are available at [https://0shuvo0.github.io/portfoliov2](https://0shuvo0.github.io/portfoliov2)
+- 👨‍💻 Visit my [YouTube Channel](https://www.youtube.com/c/AngleBrace)
 
 - 📫 How to reach me **0mdshuvo0@gmail.com**
 
