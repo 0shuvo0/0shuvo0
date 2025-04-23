@@ -72,5 +72,3 @@ Problem Solving, Creative Thinking, Team Collaboration, Time Management
 
 ---
 
-
-![Shuvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0shuvo0&show_icons=true&theme=tokyonight)
