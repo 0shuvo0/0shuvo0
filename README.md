@@ -3,11 +3,16 @@
 **Creative Developer | UI Engineer | Problem Solver**
 
 🌐 [Portfolio Website](https://0shuvo0.pro)  
+
 📫 +880-1913844513  
+
 💻 [GitHub Profile](https://github.com/0shuvo0)
+
 ▶️ [YouTube](https://youtube.com/@anglebrace)
-- 📫 How to reach me **0mdshuvo0@gmail.com**
-- ⚡ Fun fact **console.log([[][[]]+[]][0][0]+(![]+[])[1]+(!![]+[])[1]+(!![]+[])[1]+([]+{})[1]) // Hello
+
+📫 How to reach me **0mdshuvo0@gmail.com**
+
+⚡ Fun fact **console.log([[][[]]+[]][0][0]+(![]+[])[1]+(!![]+[])[1]+(!![]+[])[1]+([]+{})[1]) // Hello
 **
 
 ---
