@@ -58,7 +58,7 @@ I'm a passionate Frontend Developer with 5+ years of experience designing and bu
 <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="arduino" width="40" height="40"/>
 
 **Tools & Platforms:**  
-<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="arduino" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="arduino" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="arduino" width="40" height="40"/>
 <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="arduino" width="40" height="40"/>
