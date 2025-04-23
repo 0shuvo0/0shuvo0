@@ -1,26 +1,59 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">A passionate self-taught developer</h3>
+# 👋 Hi, I'm Fahad Hasan Shuvo
 
-- 👨‍💻 Visit my [YouTube Channel](https://www.youtube.com/c/AngleBrace)
+**Creative Developer | UI Engineer | Problem Solver**
 
+🌐 [Portfolio Website](https://0shuvo0.pro)  
+📫 +880-1913844513  
+💻 [GitHub Profile](https://github.com/0shuvo0)
+▶️ [YouTube](https://youtube.com/@anglebrace)
 - 📫 How to reach me **0mdshuvo0@gmail.com**
+- ⚡ Fun fact **console.log([[][[]]+[]][0][0]+(![]+[])[1]+(!![]+[])[1]+(!![]+[])[1]+([]+{})[1]) // Hello
+**
 
-- ⚡ Fun fact **;;;;;;console.log("It's a valid JS code");;;;;**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/shuvok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shuvok" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-shuvo-58414b1ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shuvo-58414b1ba" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13564116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13564116" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/0mdshuvo0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="0mdshuvo0" height="30" width="40" /></a>
-</p>
+## 🚀 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://nuxtjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+I'm a passionate Frontend Developer with 5+ years of experience designing and building fast, responsive, and engaging web applications. From startups to established teams, I’ve worked across various industries, bringing ideas to life with clean code and pixel-perfect UI. I specialize in modern JavaScript frameworks and have a knack for turning complex problems into elegant solutions.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=0shuvo0&show_icons=true&locale=en&layout=compact" alt="0shuvo0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0shuvo0&show_icons=true&locale=en" alt="0shuvo0" /></p>
+## 💼 Experience
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0shuvo0&" alt="0shuvo0" /></p>
+### **The Lab Group** (2022 – Present)
+- Built and maintained multiple interactive web apps with designers and backend teams.
+- Developed immersive 3D visualizations using **Three.js**, boosting user engagement.
+- Enhanced UX with modern **SCSS** and improved performance by reducing load times by 25%.
+- Integrated **RESTful APIs** for real-time data updates.
 
+### **Fiverr** (2020 – 2022)
+- Delivered 35+ custom web solutions across industries with a 4.9/5 client rating.
+- Created responsive web apps using **React**, **Vue.js**, and **JavaScript**.
+- Improved page load speed by 25% through front-end optimization.
+- Translated Figma designs to functional UIs using HTML, CSS, and JS frameworks.
+
+### **Freelance Projects for Startups & Small Businesses** (2019)
+- Built and launched 5+ websites with a focus on UI/UX and responsiveness.
+- Resolved 40% of bug reports via effective front-end debugging.
+- Collaborated with senior devs and honed skills in **Git**, code reviews, and agile workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks:**  
+JavaScript (ES6+), React.js, Vue.js, Three.js, HTML5, CSS3, Tailwind, SCSS, GSAP
+
+**Tools & Platforms:**  
+Git, GitHub, Figma, Webpack, Vite, Node.js, Firebase
+
+**Other:**  
+RESTful APIs, Responsive Design, Cross-Browser Compatibility, AWS (Basics), Agile
+
+**Soft Skills:**  
+Problem Solving, Creative Thinking, Team Collaboration, Time Management
+
+---
+
+
+![Shuvo's GitHub stats](https://github-readme-stats.vercel.app/api?username=0shuvo0&show_icons=true&theme=tokyonight)
