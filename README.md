@@ -47,10 +47,22 @@ I'm a passionate Frontend Developer with 5+ years of experience designing and bu
 ## 🛠️ Tech Stack
 
 **Languages & Frameworks:**  
-JavaScript (ES6+), React.js, Vue.js, Three.js, HTML5, CSS3, Tailwind, SCSS, GSAP
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vue-9.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/threejs-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="arduino" width="40" height="40"/>
 
 **Tools & Platforms:**  
-Git, GitHub, Figma, Webpack, Vite, Node.js, Firebase
+<img src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="arduino" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/webpack-icon.svg" alt="arduino" width="40" height="40"/>
 
 **Other:**  
 RESTful APIs, Responsive Design, Cross-Browser Compatibility, AWS (Basics), Agile
