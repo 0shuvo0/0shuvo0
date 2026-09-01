@@ -2,9 +2,13 @@
 **JavaScript Expert | Front-End & Full-Stack Engineer | 5+ Years Experience**
 
 🌐 [Portfolio Website](https://0shuvo0.vercel.app/)
+
 📫 +880-1913844513
+
 💻 [GitHub Profile](https://github.com/0shuvo0)
+
 ▶️ [YouTube](https://youtube.com/@anglebrace)
+
 📫 How to reach me **0mdshuvo0@gmail.com**
 
 ---
